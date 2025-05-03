@@ -40,7 +40,7 @@ if(!display.begin(SSD1306_SWITCHCAPVCC, 0x3C))
  display.setTextColor(WHITE);
  display.setTextSize(1);
  display.setCursor(10,20);
- display.print("zintechideas");
+ display.print("Malhar Lable 24");
  display.display();
  delay(3000);
  
