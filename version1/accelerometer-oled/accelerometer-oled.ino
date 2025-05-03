@@ -42,7 +42,7 @@ void setup() {
   display.setTextColor(WHITE);
   display.setTextSize(1);
   display.setCursor(20, 20);
-  display.print("zintechideas");
+  display.print("Malhar Lable 24");
   display.display();
   delay(2000);
 }
